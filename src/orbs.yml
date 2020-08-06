@@ -1,0 +1,23 @@
+orbs:
+  test:
+    display-name: "&7Test"
+    destroyed-display-name: "&7Test destroyed"
+    box-display-name: "&7Test box"
+    #placeholder %boost%, %chance%
+    lore:
+      - "&7Boost &a%boost%%"
+      - "&7Chance &a%chance%%"
+    destroyed-lore:
+      - "&3Test lore"
+    box-lore:
+      - "&3Test lore"
+    material: "ENDER_PEARL"
+    destroyed-material: "SULPHUR"
+    box-material: "ENDER_PEARL"
+    boost-min: 2
+    boost-max: 20
+    chance-min: 70
+    chance-max: 90
+    chance-break: 10
+    craft-amount: 5
+        

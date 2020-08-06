@@ -1,0 +1,22 @@
+settings:
+  max-orbs: 5
+  #placeholder %boost%
+  lore-text: "&a>> &7Sell boost &a%boost%"
+menu:
+  empty:
+    display-name: "&7Empty"
+    lore:
+      - "&7Test"
+messages:
+  args-not-valid: "&7The arg &c%arg% &7wasn't valid, use /am for help!"
+  invalid-args-give: "&7Invalid args, please use /orbbooster give (player) <orb-name> <amount>"
+  #placeholders %count%, %orb-name%
+  recieve-give: "&7You successfully recived &e%count% %orb-name%!"
+  #placeholders %target%, %count%, %orb-name%
+  box-gave: "&7You successfully gave &a%target% &e%count% %orb-name%!"
+  #placeholder %arg%
+  invalid-number: "&7The specified number &c%arg% &7wasn't valid!"
+  invalid-orb: "&7The specified orb name &c%arg% &7wasn't valid!"
+  invalid-target: "&7The specified target &c%arg% &7wasn't valid!"
+  max-slots-reached: "&7Tool has already been filled!"
+  blocks-left: "&7%blocks% left until new orbslot can be used!"

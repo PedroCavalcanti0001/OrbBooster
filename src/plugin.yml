@@ -1,0 +1,12 @@
+name: OrbBooster
+version: 1
+api-version: 1.12
+author: sirjavlux
+main: com.coding.sirjavlux.orbbooster.core.Main
+
+softdepend: [AutoMine]
+depend: [AutoSell]
+
+commands:
+  orbbooster:
+    aliases: [orbs, orbs give, ofdfdsrbbooster give]
